@@ -1,0 +1,21 @@
+{
+  "domain": null,
+  "environment": "PRODUCTION",
+  "environmentId": "786cd0ad-8a64-40aa-8939-7289078834a9",
+  "projectCode": "P5-GEN-TEST",
+  "projectId": "f548eb06-f415-4902-8bae-4411bde2d858",
+  "provisioning": {
+    "status": "NOT_PROVISIONED"
+  },
+  "region": "ap-south-1",
+  "runtime": {
+    "healthPath": "/health",
+    "port": 3000
+  },
+  "schemaVersion": 1,
+  "source": {
+    "branch": "main",
+    "context": ".",
+    "dockerfile": "Dockerfile"
+  }
+}
