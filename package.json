@@ -1,0 +1,12 @@
+{
+  "engines": {
+    "node": ">=22"
+  },
+  "name": "p5-gen-test",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "type": "module",
+  "version": "0.1.0"
+}
