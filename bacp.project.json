@@ -1,0 +1,57 @@
+{
+  "environments": [
+    {
+      "domain": null,
+      "id": "c3c4256c-88ca-46a5-b04c-ef012656fc75",
+      "region": "ap-south-1",
+      "type": "DEVELOPMENT"
+    },
+    {
+      "domain": null,
+      "id": "786cd0ad-8a64-40aa-8939-7289078834a9",
+      "region": "ap-south-1",
+      "type": "PRODUCTION"
+    },
+    {
+      "domain": null,
+      "id": "1e020b28-210d-49e5-9a75-42d2d7f8337e",
+      "region": "ap-south-1",
+      "type": "STAGING"
+    }
+  ],
+  "generatedBy": "Business Application Central Platform",
+  "modules": [
+    {
+      "configuration": {},
+      "displayName": "Core",
+      "id": "af7ece30-1a89-4525-9500-02ff949f97a2",
+      "slug": "core",
+      "version": "1.1.0"
+    },
+    {
+      "configuration": {
+        "pipeline": "services"
+      },
+      "displayName": "CRM",
+      "id": "7ebab56f-0406-4bf8-8b8d-b36c11b218c2",
+      "slug": "crm",
+      "version": "1.1.0"
+    }
+  ],
+  "project": {
+    "clientId": "6297cb89-e920-4fe9-a42f-95c565bf6aef",
+    "code": "P5-GEN-TEST",
+    "currency": "AED",
+    "description": "ap-south-1",
+    "id": "f548eb06-f415-4902-8bae-4411bde2d858",
+    "name": "Phase 5 Generator Test",
+    "timezone": "Asia/Dubai"
+  },
+  "schemaVersion": 1,
+  "template": {
+    "displayName": "Service Company",
+    "id": "14a4391d-f426-4552-b0ae-76de2b02a1f5",
+    "slug": "service-company",
+    "version": "1.0.0"
+  }
+}
